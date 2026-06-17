@@ -113,5 +113,6 @@ nghi = {
 </p>
 
 <p align="center">
-  <i>✨ "it's okay to grow slowly — flowers do too 🌷"</i>
+  <i>✨ 𝒾𝓉'𝓈 𝑜𝓀𝒶𝓎 𝓉𝑜 𝑔𝓇𝑜𝓌 𝓈𝓁𝑜𝓌𝓁𝓎 — 𝒻𝓁𝑜𝓌𝑒𝓇𝓈 𝒹𝑜 𝓉𝑜𝑜 🌷</i>
+  
 </p>
