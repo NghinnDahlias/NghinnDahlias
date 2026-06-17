@@ -13,7 +13,7 @@
   <a href="mailto:contact.nghivo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-fbcfe8?style=for-the-badge&logo=gmail&logoColor=9d174d"/>
   </a>
-  <a href="https://linkedin.com/in/nghivo">
+  <a href="[https://linkedin.com/in/nghivo](https://www.linkedin.com/in/nghi-vo-thi-dong-48b4b53a2/)">
     <img src="https://img.shields.io/badge/LinkedIn-fbcfe8?style=for-the-badge&logo=linkedin&logoColor=9d174d"/>
   </a>
   <a href="https://github.com/NghinnDahlias">
@@ -104,7 +104,7 @@ nghi = {
 
 <!-- 🐍 Snake — thay bằng contribution graph từ ghchart.rotto.moe (không cần Actions) -->
 <p align="center">
-  <img src="https://ghchart.rotto.moe/f472b6/NghinnDahlias" alt="Nghi's GitHub Contribution Chart" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NghinnDahlias&bg_color=1f1422&color=fce7f3&line=f472b6&point=f9a8d4&area=true&hide_border=true" alt="Nghi's GitHub Contribution Chart" />
 </p>
 
 <!-- 🌸 Footer wave — fix lại đúng URL capsule-render -->
